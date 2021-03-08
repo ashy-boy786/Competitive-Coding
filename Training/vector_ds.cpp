@@ -25,4 +25,11 @@ int main()
 	v.push_back(5); // [3, 2, 5]
 
 	printVector(v);
+
+	std::cout << v.back() << "\n"; // Last element
+	v.pop_back(); // Removes last
+	std::cout << v.back() << "\n";
+
+	vector v1(10, 5); // Vector of 10 elements all initialized to 5
+	printVector(v1);
 }
