@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<mathomir>
+<obj type="1" X="132" Y="105" page_w="1165" page_h="1650" numbering="0" ver="1">
+<expr fnt_h="100">
+	<elm tp="1" tx="5" fnt="00" />
+	<elm tp="1" tx="k" fnt="22" />
+	<elm tp="2" stp="+" />
+	<elm tp="1" tx="3" fnt="00" />
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="2" fnt="00" />
+	<elm tp="1" tx="m" fnt="22" />
+</expr>
+</obj>
+<obj type="1" X="132" Y="140">
+<expr fnt_h="100">
+	<elm tp="2" stp="\DE" />
+	<elm tp="1" tx="2" fnt="00" />
+	<elm tp="1" tx="m" fnt="22" />
+	<elm tp="2" stp="+" />
+	<elm tp="1" tx="5" fnt="00" />
+	<elm tp="5"  Exp1="">
+	<expr fnt_h="100" brack="2">
+		<elm tp="2" stp="-" />
+		<elm tp="1" tx="k" fnt="22" />
+	</expr>
+	</elm>
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="3" fnt="00" />
+</expr>
+</obj>
+<obj type="1" X="132" Y="246">
+<expr fnt_h="100">
+	<elm tp="1" tx="m" fnt="22" />
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="4" fnt="00" />
+	<elm tp="2" stp="," />
+	<elm tp="1" tx="k" fnt="22" />
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="1" fnt="00" />
+</expr>
+</obj>
+<obj type="1" X="132" Y="278">
+<expr fnt_h="100">
+	<elm tp="1" tx="m" fnt="22" />
+	<elm tp="2" stp="=" />
+	<elm tp="2" stp="-" />
+	<elm tp="1" tx="1" fnt="00" />
+	<elm tp="2" stp="," />
+	<elm tp="1" tx="k" fnt="22" />
+	<elm tp="2" stp="=" />
+	<elm tp="2" stp="-" />
+	<elm tp="1" tx="1" fnt="00" />
+</expr>
+</obj>
+<obj type="1" X="132" Y="223">
+<expr fnt_h="100">
+	<elm tp="1" tx="m" fnt="22" />
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="9" fnt="00" />
+	<elm tp="2" stp="," />
+	<elm tp="1" tx="k" fnt="22" />
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="3" fnt="00" />
+</expr>
+</obj>
+<obj type="1" X="140" Y="380">
+<expr fnt_h="100" stxt="1">
+	<elm tp="1" tx="In" fnt="0000" />
+	<elm tp="1" tx="general" fnt="00000000000000" />
+	<elm tp="1" tx="," fnt="00" ttxt="2" />
+	<elm tp="1" tx="m" fnt="22" mth="1" />
+	<elm tp="1" tx="s" fnt="22" mth="1" />
+	<elm tp="2" stp="+" />
+	<elm tp="1" tx="n" fnt="22" mth="1" />
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="a" fnt="22" mth="1" />
+	<elm tp="1" tx="t" fnt="22" mth="1" />
+	<elm tp="2" stp="+" />
+	<elm tp="1" tx="k" fnt="22" mth="1" />
+</expr>
+</obj>
+<obj type="1" X="140" Y="416">
+<expr fnt_h="100">
+	<elm tp="2" stp="\DE" />
+	<elm tp="1" tx="m" fnt="22" />
+	<elm tp="1" tx="s" fnt="22" />
+	<elm tp="2" stp="+" />
+	<elm tp="1" tx="a" fnt="22" />
+	<elm tp="5"  Exp1="">
+	<expr fnt_h="100" brack="2">
+		<elm tp="2" stp="-" />
+		<elm tp="1" tx="t" fnt="22" />
+	</expr>
+	</elm>
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="k" fnt="22" />
+	<elm tp="2" stp="-" />
+	<elm tp="1" tx="n" fnt="22" />
+</expr>
+</obj>
+<obj type="1" X="141" Y="448">
+<expr fnt_h="100" txt="1" stxt="1" alig="1">
+	<elm tp="2" stp="\DE" />
+	<elm tp="1" tx="Solution" fnt="0000000000000000" />
+	<elm tp="1" tx="exists" fnt="000000000000" />
+	<elm tp="1" tx="iff" fnt="000000" />
+<row_sep />
+	<elm tp="2" stp="\09" />
+	<elm tp="2" stp="\09" />
+	<elm tp="2" stp="\09" />
+	<elm tp="6" tx="" fnt="" mth="1" Exp1="">
+	<expr fnt_h="100" brack="2">
+		<elm tp="5"  Exp1="">
+		<expr fnt_h="100" brack="2">
+			<elm tp="1" tx="k" fnt="22" />
+			<elm tp="2" stp="-" />
+			<elm tp="1" tx="n" fnt="22" />
+		</expr>
+		</elm>
+	</expr>
+	</elm>
+	<elm tp="2" stp="m" />
+	<elm tp="6" tx="gcd" fnt="20" mth="1" Exp1="">
+	<expr fnt_h="100" brack="3">
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="2" stp="," />
+		<elm tp="1" tx="a" fnt="22" />
+	</expr>
+	</elm>
+	<elm tp="2" stp="=" />
+	<elm tp="1" tx="0" fnt="00" mth="1" />
+</expr>
+</obj>
+<obj type="1" X="444" Y="124">
+<expr fnt_h="100">
+	<elm tp="1" tx="5" fnt="00" />
+	<elm tp="1" tx="k" fnt="22" />
+	<elm tp="2" stp="+" />
+	<elm tp="1" tx="2" fnt="00" />
+	<elm tp="5"  Exp1="">
+	<expr fnt_h="100" brack="2">
+		<elm tp="2" stp="-" />
+		<elm tp="1" tx="m" fnt="22" />
+	</expr>
+	</elm>
+	<elm tp="2" stp="=" />
+	<elm tp="2" stp="-" />
+	<elm tp="1" tx="3" fnt="00" />
+</expr>
+</obj>
+<obj type="1" X="444" Y="159">
+<expr fnt_h="100">
+	<elm tp="5"  Exp1="">
+	<expr fnt_h="100" brack="2">
+		<elm tp="1" tx="1" fnt="00" />
+		<elm tp="2" stp="," />
+		<elm tp="1" tx="4" fnt="00" />
+	</expr>
+	</elm>
+</expr>
+</obj>
+<obj type="1" X="407" Y="311">
+<expr fnt_h="100">
+	<elm tp="1" tx="" fnt="" />
+</expr>
+</obj>
+</mathomir>
